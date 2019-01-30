@@ -1,0 +1,65 @@
+Line 85: Class isButton3.isButton of control cmProses was not a loaded control class.
+Line 451: Class XPEngine.XPControl of control MesinXP was not a loaded control class.
+Line 497: Class isButton3.isButton of control cmReset was not a loaded control class.
+Line 524: Class isButton3.isButton of control cmKeluar was not a loaded control class.
+Line 552: Class isButton3.isButton of control cmRumus was not a loaded control class.
+Line 579: Class isButton3.isButton of control cmExport was not a loaded control class.
+Line 91: The property name _ExtentX in cmProses is invalid.
+Line 92: The property name _ExtentY in cmProses is invalid.
+Line 93: The property name Icon in cmProses is invalid.
+Line 94: The property name Style in cmProses is invalid.
+Line 95: The property name Caption in cmProses is invalid.
+Line 96: The property name IconAlign in cmProses is invalid.
+Line 97: The property name iNonThemeStyle in cmProses is invalid.
+Line 98: The property name Tooltiptitle in cmProses is invalid.
+Line 99: The property name ToolTipIcon in cmProses is invalid.
+Line 100: The property name ToolTipType in cmProses is invalid.
+Line 101: The property name ttForeColor in cmProses is invalid.
+Line 454: The property name _ExtentX in MesinXP is invalid.
+Line 455: The property name _ExtentY in MesinXP is invalid.
+Line 456: The property name ColorScheme in MesinXP is invalid.
+Line 503: The property name _ExtentX in cmReset is invalid.
+Line 504: The property name _ExtentY in cmReset is invalid.
+Line 505: The property name Icon in cmReset is invalid.
+Line 506: The property name Style in cmReset is invalid.
+Line 507: The property name Caption in cmReset is invalid.
+Line 508: The property name IconAlign in cmReset is invalid.
+Line 509: The property name iNonThemeStyle in cmReset is invalid.
+Line 510: The property name Tooltiptitle in cmReset is invalid.
+Line 511: The property name ToolTipIcon in cmReset is invalid.
+Line 512: The property name ToolTipType in cmReset is invalid.
+Line 513: The property name ttForeColor in cmReset is invalid.
+Line 530: The property name _ExtentX in cmKeluar is invalid.
+Line 531: The property name _ExtentY in cmKeluar is invalid.
+Line 532: The property name Icon in cmKeluar is invalid.
+Line 533: The property name Style in cmKeluar is invalid.
+Line 534: The property name Caption in cmKeluar is invalid.
+Line 535: The property name IconAlign in cmKeluar is invalid.
+Line 536: The property name iNonThemeStyle in cmKeluar is invalid.
+Line 537: The property name HighlightColor in cmKeluar is invalid.
+Line 538: The property name Tooltiptitle in cmKeluar is invalid.
+Line 539: The property name ToolTipIcon in cmKeluar is invalid.
+Line 540: The property name ToolTipType in cmKeluar is invalid.
+Line 541: The property name ttForeColor in cmKeluar is invalid.
+Line 558: The property name _ExtentX in cmRumus is invalid.
+Line 559: The property name _ExtentY in cmRumus is invalid.
+Line 560: The property name Icon in cmRumus is invalid.
+Line 561: The property name Style in cmRumus is invalid.
+Line 562: The property name Caption in cmRumus is invalid.
+Line 563: The property name IconAlign in cmRumus is invalid.
+Line 564: The property name iNonThemeStyle in cmRumus is invalid.
+Line 565: The property name Tooltiptitle in cmRumus is invalid.
+Line 566: The property name ToolTipIcon in cmRumus is invalid.
+Line 567: The property name ToolTipType in cmRumus is invalid.
+Line 568: The property name ttForeColor in cmRumus is invalid.
+Line 585: The property name _ExtentX in cmExport is invalid.
+Line 586: The property name _ExtentY in cmExport is invalid.
+Line 587: The property name Icon in cmExport is invalid.
+Line 588: The property name Style in cmExport is invalid.
+Line 589: The property name Caption in cmExport is invalid.
+Line 590: The property name IconAlign in cmExport is invalid.
+Line 591: The property name iNonThemeStyle in cmExport is invalid.
+Line 592: The property name Tooltiptitle in cmExport is invalid.
+Line 593: The property name ToolTipIcon in cmExport is invalid.
+Line 594: The property name ToolTipType in cmExport is invalid.
+Line 595: The property name ttForeColor in cmExport is invalid.
