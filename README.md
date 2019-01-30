@@ -5,5 +5,5 @@ ________________________________________________________________________________
 <br>
 Pengembangan Perangkat Lunak: "Konvertor Suhu v1.0". Dibangun dan dikembangkan menggunakan pemrograman Visual Basic 6.0. Bertujuan untuk megkonversi hasil dari pengukuran suhu dan tujuan pembelajaran dasar pemrograman Visual Basic.
 <br><br>
-Copyright © 2011 by Rizky Khapidsyah.
+Copyright © 2011 by Rizky Khapidsyah. <br>
 All Right Reserved.
